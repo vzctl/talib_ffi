@@ -1,0 +1,8 @@
+h1. talib_ffi
+
+SWIG-generated interface for Technical Analysis Library. talib_ffi is open source and released under the terms of the GNU General Public License v2.
+
+h2. Support & getting help
+
+For getting help you can join #support on the irc.realisticgroup.com or email to lex.public@gmail.com.
+
